@@ -1,0 +1,12 @@
+Identifiants base de donnée en production:
+/** The name of the database for WordPress */
+define( 'DB_NAME', 'jpmyvjuw_hBvbuspWe' );
+
+/** MySQL database username */
+define( 'DB_USER', 'jpmyvjuw_XNk2dDzkK' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', '1rMgHKeMpgUIeiCyeXquxTdfk7mLnt3Q' );
+
+/** MySQL hostname */
+define( 'DB_HOST', 'localhost' );
